@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Reto</string>
+    <string name="texto_Formulario">Formulario:</string>
+    <string name="texto_Equipo">Equipo:</string>
+    <string name="texto_Edad">Edad:</string>
+    <string name="digitarnombre">digite un nombre</string>
+    <string name="Telefono">Teléfono:</string>
+    <string name="Apellido">Apellido:</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="boton_diligenciar">Enviar.</string>
+    <string name="requerido">Diligenciar</string>
+    <string name="NombreJ">Johjan Stiven Puerta Castanio</string>
+    <string name="NombreB">Brayan Montoya Osorio y Monchi</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento:</string>
+    <string name="Calcular">Calcular:</string>
+    <string name="txtRech">Fecha incorrecta.</string>
+    <string name="titulo_principal">Menú principal</string>
+    <string name="titulo_Equipo">Integrantes del equipo</string>
+    <string name="titulo_formulario">Formulario</string>
+    <string name="titulo_edad">Calcular edad</string>
+</resources>
